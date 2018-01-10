@@ -13,4 +13,4 @@ Example:
     "db":"crypto"
 }`
 
-## NOTE: This project has been setup to run/debug using VSCODE.
+### NOTE: This project has been setup to run/debug using VSCODE.
