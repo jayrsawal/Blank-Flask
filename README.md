@@ -8,9 +8,9 @@ Example:
 `mysql = {
     "host":"localhost",
     "port":2251,
-    "user":"root",
-    "passwd":"100429659",
-    "db":"crypto"
+    "user":"username",
+    "passwd":"password",
+    "db":"dbname"
 }`
 
 ### NOTE: This project has been setup to run/debug using VSCODE.
